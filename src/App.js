@@ -1,7 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
-import axios from "axios";
-import LoadingIcons from "react-loading-icons";
+import { Puff } from "react-loading-icons";
+
 function App() {
   return (
     <div className="App">
